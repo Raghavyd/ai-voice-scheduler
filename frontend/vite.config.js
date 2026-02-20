@@ -4,15 +4,20 @@ import react from "@vitejs/plugin-react";
 export default defineConfig({
   plugins: [react()],
 
-  // ✅ important for Vercel root deployment
+  // Required so assets work on Vercel
   base: "/",
 
   build: {
     outDir: "dist",
     sourcemap: false,
+    emptyOutDir: true,
   },
 
   server: {
+    port: 5173,
+  },
+
+  preview: {
     port: 5173,
   },
 });
