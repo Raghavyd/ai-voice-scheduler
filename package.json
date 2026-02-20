@@ -1,0 +1,12 @@
+{
+  "name": "voice-agent",
+  "type": "module",
+  "dependencies": {
+    "chrono-node": "^2.9.0",
+    "cors": "^2.8.6",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "googleapis": "^140.0.1",
+    "groq-sdk": "^0.37.0"
+  }
+}
