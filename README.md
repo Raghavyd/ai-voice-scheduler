@@ -3,7 +3,7 @@
 A real-time AI voice assistant that schedules meetings using natural conversation and creates Google Calendar events automatically.
 
 ## 🚀 Live Demo
-https://your-app.vercel.app
+(https://ai-voice-scheduler-y8hv.vercel.app/)
 
 ---
 
