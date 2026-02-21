@@ -5,6 +5,9 @@ A real-time AI voice assistant that schedules meetings using natural conversatio
 ## 🚀 Live Demo
 (https://ai-voice-scheduler-y8hv.vercel.app/)
 
+## 🚀 Loom short video demo:
+https://drive.google.com/file/d/1S91L7FOWjpcW7wtgBoWg272xbQEDWiSh/view?usp=drivesdk
+
 ---
 
 ## ✨ Features
